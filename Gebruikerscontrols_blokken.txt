@@ -1,0 +1,29 @@
+GEBRUIKERSCONTROLS
+
+SINGLEPLAYER:
+Arrow-LEFT: Blok naar links bewegen
+Arrow-RIGHT: Blok naar rechts bewegen
+Arrow-DOWN: Blok naar beneden bewegen
+F-KEY: Blok wijzerszin roteren
+J-KEY: Blok tegenwijzerszin roteren
+Linkermuisklik: Antwoord aanduiden
+
+VERSUS MODE:
+
+SPELER 1
+Q-KEY: Blok naar links bewegen
+D-KEY: Blok naar rechts bewegen
+S-KEY: Blok naar beneden bewegen
+E-KEY: Blok wijzerszin roteren
+A-KEY: Blok tegenwijzerszin roteren
+Z-KEY: Buzzer indrukken
+Linkermuisklik: Antwoord aanduiden
+
+SPELER 2
+NUMPAD-4: Blok naar links bewegen
+NUMPAD-6: Blok naar rechts bewegen
+NUMPAD-2: Blok naar beneden bewegen
+NUMPAD-9: Blok wijzerszin roteren
+NUMPAD-7: Blok tegenwijzerszin roteren
+NUMPAD-8: Buzzer indrukken
+Linkermuisklik: Antwoord aanduiden
